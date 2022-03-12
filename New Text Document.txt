@@ -1,0 +1,3 @@
+ip samar_op_gob.aternos.me
+port 59968
+name ultimate server
